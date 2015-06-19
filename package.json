@@ -1,0 +1,39 @@
+{
+  "name": "wizard-syntax",
+  "theme": "syntax",
+  "version": "0.1",
+  "description": "Wizard theme for the Atom editor (Wizard UI)",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "engines": {
+    "atom": ">0.174.0 <2.0.0"
+  },
+  "keywords": [
+    "wizard-ui",
+    "syntax",
+    "theme"
+  ],
+  "homepage": "https://github.com/wizardoncouch/wizard-syntax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wizardoncouch/wizard-syntax.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wizardoncouch/wizard-syntax/issues"
+  },
+  "readme": "# Wizard Syntax theme\n\nA Wizard-ui syntax theme for the Atom editor.\n\nMaintainer: [Alex C](https://github.com/wizardoncouch), <wizardoncouch@gmail.com>;\nProject Home: [GitHub](https://github.com/wizardoncouch/wizard-syntax).",
+  "readmeFilename": "README.md",
+  "_id": "wizard-syntax@0.1",
+  "_shasum": "184a7631cb2ed528d3cd6de67152b0ef09098418",
+  "_resolved": "file:../d-115518-1905-1vh0oan/package.tgz",
+  "_from": "../d-115518-1905-1vh0oan/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

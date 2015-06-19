@@ -1,8 +1,16 @@
 @import './styles/syntax-variables';
 
+@font-face {
+    font-family: "PragmataPro";
+    src: url('atom://wizard-syntax/fonts/PragmataPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 :host, atom-text-editor {
     background-color: @syntax-background-color;
     color: @syntax-text-color;
+    font-family: "PragmataPro";
 
     .scroll-view div{
         opacity: 0.9;
